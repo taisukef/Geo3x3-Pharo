@@ -1,1 +1,1 @@
-Package { #name : #'Geo3x3-codec' }
+Package { #name : #'pharo' }
