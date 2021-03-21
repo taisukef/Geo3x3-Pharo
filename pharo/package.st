@@ -1,1 +1,1 @@
-Package { #name : #'pharo' }
+Package { #name : #'Geo3x3' }

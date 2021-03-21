@@ -1,7 +1,7 @@
 Class {
 	#name : #Geo3x3Test,
 	#superclass : #TestCase,
-	#category : #'pharo'
+	#category : #'Geo3x3'
 }
 
 { #category : #tests }

@@ -4,7 +4,7 @@ https://code4sabae.github.io/geo3x3-map/
 Class {
 	#name : #Geo3x3,
 	#superclass : #Object,
-	#category : #'pharo'
+	#category : #'Geo3x3'
 }
 
 { #category : #decoding }
